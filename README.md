@@ -1,3 +1,4 @@
+<img width="1470" height="824" alt="Screenshot 2026-04-28 at 12 12 19" src="https://github.com/user-attachments/assets/59051e22-294e-4a9e-9894-b66f676e2f9d" />
 # REI Survey Intelligence Dashboard
 
 ## Description
