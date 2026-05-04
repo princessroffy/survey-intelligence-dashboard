@@ -6,6 +6,8 @@ The Survey Intelligence Dashboard is a data-driven application designed to help 
 
 This project demonstrates how data analysis and AI-inspired logic can support better decision-making in community development, public health, and social impact programs.
 
+live demo: https://lnkd.in/dV3g7ePd
+
 ---
 
 ## ❗ Problem
