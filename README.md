@@ -64,7 +64,7 @@ Automated report generation (PDF)
 Dashboard customization
 Integration with Google Forms / KoboToolbox
 
---
+---
 
 ## 👩🏽‍💻 Author
 
