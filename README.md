@@ -57,7 +57,7 @@ streamlit run app.py
 
 ## Portfolio Summary
 
-This project demonstrates how Python, Pandas, Streamlit, and Matplotlib can be used to build a practical NGO data product. It supports data cleaning, interactive filtering, real-time analytics, automated insights, vulnerability scoring, and report generation for better program planning and donor communication.
+This project demonstrates how Python, Pandas, Streamlit, and Matplotlib can be used to build a practical NGO data product. It supports data cleaning, interactive filtering, real-time analytics, automated insights, vulnerability scoring, and report generation for better program planning and donor communication. ```bash
 
 ---
 
