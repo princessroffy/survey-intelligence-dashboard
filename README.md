@@ -58,3 +58,30 @@ streamlit run app.py
 ## Portfolio Summary
 
 This project demonstrates how Python, Pandas, Streamlit, and Matplotlib can be used to build a practical NGO data product. It supports data cleaning, interactive filtering, real-time analytics, automated insights, vulnerability scoring, and report generation for better program planning and donor communication.
+
+---
+
+## Real-World Impact
+
+This project can be used by:
+
+NGOs to analyze community surveys
+Public health organizations to track health trends
+Researchers for data-driven insights
+Social impact programs for reporting and funding proposals
+
+---
+
+## Future Improvements
+
+AI-powered recommendations
+Automated report generation (PDF)
+Dashboard customization
+Integration with Google Forms / KoboToolbox
+
+--
+
+## 👩🏽‍💻 Author
+
+Rofiyat Aliyu
+AI & Data for Social Impact
