@@ -46,21 +46,6 @@ This dashboard analyzes survey data and provides:
 
 ---
 
-##  How to Run
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-4. Select the GitHub repository.
-5. Set the main file path to `app.py`.
-6. Deploy.
-
-## Portfolio Summary
-
-This project demonstrates how Python, Pandas, Streamlit, and Matplotlib can be used to build a practical NGO data product. It supports data cleaning, interactive filtering, real-time analytics, automated insights, vulnerability scoring, and report generation for better program planning and donor communication. bash```
-
----
-
 ## Real-World Impact
 
 This project can be used by:
@@ -85,3 +70,18 @@ Integration with Google Forms / KoboToolbox
 
 Rofiyat Aliyu
 AI & Data for Social Impact
+
+---
+
+##  How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+4. Select the GitHub repository.
+5. Set the main file path to `app.py`.
+6. Deploy.
+
+## Portfolio Summary
+
+This project demonstrates how Python, Pandas, Streamlit, and Matplotlib can be used to build a practical NGO data product. It supports data cleaning, interactive filtering, real-time analytics, automated insights, vulnerability scoring, and report generation for better program planning and donor communication.
